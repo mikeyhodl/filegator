@@ -2,6 +2,10 @@
 
 ## Upcoming...
 
+## 7.16.4 - 2026-09-20
+* Security fix: path traversal in escapeDots filter
+* Add Azerbaijani translation (#611)
+
 ## 7.16.3 - 2026-09-14
 * Add an toast on failures (see #606)
 
